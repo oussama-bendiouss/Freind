@@ -1,0 +1,4 @@
+
+      
+keytool -exportcert -alias key0 -keystore C:\Users\Fondation\Desktop\oussama bendiouss\projet\Freind2\newkey.jks | openssl sha1 -binary | openssl base64
+5xtrSEzKkAns0jjgI6MYirNUcCw=

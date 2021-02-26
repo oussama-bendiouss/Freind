@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164889893078",
+    "project_id": "freind-20fb2",
+    "storage_bucket": "freind-20fb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164889893078:android:f408cbbae5914b203d9177",
+        "android_client_info": {
+          "package_name": "com.sociale.freind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164889893078-fbpl2jpib20oc390vldf1pkecp0of3gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBV4Vjn3ytbsRfB7RWiDCkekpo44dpDks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164889893078-fbpl2jpib20oc390vldf1pkecp0of3gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
